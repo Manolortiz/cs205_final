@@ -14,7 +14,7 @@
 # There should be a comment explaining the purpose of each line in your shell script. 
 # The data file will be passed in to the script as a positional parameter and will not
 # necessarily be called pokemon.dat. However, you can assume that any file passed to this
-# script will be formatted exactly the way pokemon.dat is formatted..
+# script will be formatted exactly the way pokemon.dat is formatted.
 
 BEGIN{FS="\t"} # This is the beginning of the script. The 't' represents what type of file. 
 {
